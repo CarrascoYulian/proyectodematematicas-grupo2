@@ -1,1 +1,2 @@
-# proyectodematematicas-grupo2
+# landingpage-brizanta-marandu
+Landing Page informativa sobre la Brizanta Marandu
